@@ -1,5 +1,7 @@
 # Tower of Hanoi Algorithm
 
+![Tower-of-Hanoi-Tower-of-Brahma-or-Lucas-Tower](https://github.com/TahseenSam/Tower-Of-Hanoi-Algorithm/assets/95973635/e9cd6bb8-af78-4ecc-a1aa-339fbb521367)
+
 This repository contains a C++ program to solve the Tower of Hanoi puzzle. The Tower of Hanoi is a classic problem in computer science and mathematics that involves moving a stack of disks from one peg to another, subject to specific rules.
 
 ## Table of Contents
